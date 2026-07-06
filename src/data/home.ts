@@ -99,7 +99,7 @@ export const home: HomePage = {
 
     secondaryCTA: {
       text: "Our Programs",
-      href: "/programs",
+      href: "/program",
     },
 
     highlights: [
@@ -184,7 +184,7 @@ export const home: HomePage = {
 
     button: {
       text: "Read Our News",
-      href: "/news",
+      href: "/contact",
     },
   },
 

@@ -109,7 +109,7 @@ export const about = {
 
     primaryCTA: {
       text: "Our Programs",
-      href: "/programs",
+      href: "/program",
     },
 
     secondaryCTA: {

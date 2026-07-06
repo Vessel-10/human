@@ -4,23 +4,23 @@ import { FaFacebookF, FaInstagram, FaXTwitter } from "react-icons/fa6";
 const navigate = [
   { href: "/about", label: "About" },
   { href: "/projects", label: "Projects" },
-  { href: "/programs", label: "Programs" },
+  { href: "/program", label: "Programs" },
   { href: "/contact", label: "Contact" },
-  { href: "/donate", label: "Donate" },
+  { href: "/contact", label: "Donate" },
 ];
 
 const getInvolved = [
-  { href: "/volunteer", label: "Volunteer" },
-  { href: "/partner", label: "Partner with us" },
-  { href: "/news", label: "Latest news" },
+  { href: "/get-involved", label: "Volunteer" },
+  { href: "/get-involved", label: "Partner with us" },
+  { href: "/get-involved", label: "Latest news" },
 ];
 
 const programs = [
-  { href: "/programs/community-health", label: "Community Health" },
-  { href: "/programs/education", label: "Education" },
-  { href: "/programs/water", label: "Water & Sanitation" },
-  { href: "/programs/nutrition", label: "Nutrition" },
-  { href: "/programs/shelter", label: "Shelter" },
+  { href: "/program", label: "Community Health" },
+  { href: "/program", label: "Education" },
+  { href: "/program", label: "Water & Sanitation" },
+  { href: "/program", label: "Nutrition" },
+  { href: "/program", label: "Shelter" },
 ];
 
 export default function Footer() {

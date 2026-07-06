@@ -101,11 +101,11 @@ export const getInvolved: GetInvolved = {
         description:"Whether you choose to donate, volunteer, or partner with us, every action contributes to meaningful change.",
         primaryCTA: {
             text: "Donate Now",
-            href: "/donate",
+            href: "/contact",
         },
         secondaryCTA: {
             text: "Become a Volunteer",
-            href: "/volunteer",
+            href: "/get-involved",
         },
     },
 
@@ -158,7 +158,7 @@ export const getInvolved: GetInvolved = {
         ],
             button: {
             text: "Donate Now",
-            href: "/donate",
+            href: "/get-involved",
         },
     },
 
@@ -190,7 +190,7 @@ export const getInvolved: GetInvolved = {
     ],
     button: {
       text: "Become a Volunteer",
-      href: "/volunteer",
+      href: "/get-involved",
     },
   },
 
@@ -257,7 +257,7 @@ export const getInvolved: GetInvolved = {
     buttons: {
       primary: {
         text: "Donate Now",
-        href: "/donate",
+        href: "/get-involved",
       },
       secondary: {
         text: "Get Involved",

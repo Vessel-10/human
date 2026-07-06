@@ -70,7 +70,7 @@ export default function Navigation() {
 
           {/* Donate button — far right */}
           <Link
-            href="/donate"
+            href="/contact"
             className="hidden md:inline-flex items-center rounded-sm bg-clay px-5 py-2.5 text-sm font-medium text-ink transition-transform hover:-translate-y-0.5"
           >
             Donate
@@ -107,7 +107,7 @@ export default function Navigation() {
           ))}
         </ul>
         <Link
-          href="/donate"
+          href="/contact"
           className="inline-flex justify-center items-center rounded-sm bg-clay px-5 py-3.5 text-base font-medium text-paper"
         >
           Donate
